@@ -1,10 +1,10 @@
 {
   "name": "vjs-resolution-switcher",
-  "version": "0.4.2",
+  "version": "0.6.0",
   "authors": [
     "Kasper Moskwiak <kasper.moskwiak@gmail.com>"
   ],
-  "description": "Resolution switcher for video.js 5",
+  "description": "Resolution switcher for video.js 5/6",
   "main": [
     "lib/videojs-resolution-switcher.js",
     "lib/videojs-resolution-switcher.css"
